@@ -23,7 +23,12 @@ Node.js is required to run the backend server.
 
 ```bash
 node -v
-npm -v
+npm -v 
+```
+
+
+
+
 
 
 
@@ -36,6 +41,7 @@ MySQL is required to store user data.
 
 ✅ Create Database & Table
 Once MySQL is running, create a database and table:
+```
 CREATE DATABASE userdb;
 
 USE userdb;
@@ -46,6 +52,7 @@ CREATE TABLE users (
   username VARCHAR(100),
   password VARCHAR(100)
 );
+```
 
 
 
@@ -63,3 +70,5 @@ CREATE TABLE users (
    ```bash
    git clone https://github.com/Ammar-farid/node-username-project.git
    cd node-username-project
+
+   ```
