@@ -35,7 +35,7 @@ npm -v
 
 ## ✅ MySQL
 MySQL is required to store user data.
-- 🔗 [Download MySQL]
+- 🔗 [Download MySQL](https://dev.mysql.com/downloads/workbench/)
 - During setup, note your username, password, and port (default is 3306)
 
 
